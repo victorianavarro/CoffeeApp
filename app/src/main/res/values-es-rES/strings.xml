@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aplicación para Café</string>
+    <string name="name">Nombre</string>
+    <string name="whippedCream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="quantity">Cantidad</string>
+    <string name="orderSummary">Resumen de pedido</string>
+    <string name="order">Ordenar</string>
+
+    <string name="orderSummary_name">Nombre : <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="orderSummary_quantity">Cantidad : <xliff:g id="quantity" example="1">%s</xliff:g></string>
+    <string name="orderSummary_whippedCreamYes">Agregó crema batida ? Sí</string>
+    <string name="orderSummary_whippedCreamNo">Agregó crema batida ? No</string>
+    <string name="orderSummary_chocolateYes">Agregó chocolate ? Sí</string>
+    <string name="orderSummary_chocolateNo">Agregó chocolate ? No</string>
+    <string name="orderSummary_price">Precio : <xliff:g id="price" example="5,00 €">%s</xliff:g></string>
+    <string name="orderSummary_thanks">Gracias!</string>
+</resources>
